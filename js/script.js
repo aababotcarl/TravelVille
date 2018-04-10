@@ -31,4 +31,4 @@ M.Materialbox.init(mb, {});
 
 // scrollspy
 const ss = document.querySelectorAll('.scrollspy');
-M.Scrollspy.init(ss,{});
+M.ScrollSpy.init(ss, {});
